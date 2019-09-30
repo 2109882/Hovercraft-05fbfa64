@@ -1,0 +1,28 @@
+table{	font-family: Verdana, Geneva, sans-serif;}
+th{	
+	border-style: solid;
+	border-color: grey;
+	background-color: grey;
+	padding: 40px;
+}
+td{ 
+	border-style: solid;
+	border-color: grey;
+	background-color: none;
+	padding: 40px;
+}
+@media (hover: hover) {
+	a:hover {
+		background: red:;
+	}
+}
+p{	color: green;}
+.wait {cursor: wait;}
+
+.lila{	background-color: #DDA0DD}
+
+.orange{	background-color: #FFA07A;}
+
+.blue{		background-color: #87CEEB;}
+
+.yellow{	background: 	#F0E68C;}
